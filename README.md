@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Gabriel Ventura 👋
 
-- 🔭 Gosto muito de front-end.
+- 🔭 Gosto muito de front-end, porém estou migrando para back-end
 - 📫 Contate-me no email: gabriel.ventura20200@gmail.com
 
 <div align="center">
