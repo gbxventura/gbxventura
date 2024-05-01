@@ -7,7 +7,7 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gbxventura&show_icons=true)
 
 #### Linguagens Mais Utilizadas
-[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gbxventura&layout=compact&langs_count=7&theme=dracula)](https://github.com/gbxventura)
+[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gbxventura&size_weight=0.5&count_weight=0.5&theme=light&langs_count=8)](https://github.com/gbxventura)
 
 #### Tecnologias e Ferramentas
 <p align="center">
