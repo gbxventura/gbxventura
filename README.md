@@ -1,4 +1,4 @@
-## Olá ! Me chamo Gabriel Ventura - Seja Bem vindo ao meu Perfil do Github ! 👋
+## Olá ! Me chamo Gabriel - Seja Bem vindo ao meu Perfil do Github ! 👋
 
 - 🔭 Analise e Desenvolvimento de Sistemas.
 - ⚡ Desenvolvedor Full Stack.
