@@ -9,9 +9,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/gbxventura/">   
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=gbxventura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width="45%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbxventura&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/slycoder0/">   
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=slycoder0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em"  width="45%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=slycoder0&layout=compact&langs_count=7&theme=dark"/>
 </div>   
 
 <div style="display: inline_block"><br>
